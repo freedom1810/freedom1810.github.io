@@ -2,7 +2,7 @@
 layout: post
 title: Tạo blog cá nhân với Jekyll (Phần 1)
 subtitle: Tổng hợp một số kinh nghiệm và bài viết hay về tạo blog với Jekyll
-tags: [books, test]
+tags: [jekyll]
 ---
 
 # Tổng hợp các bài viết hay để tạo blog với Jekyll
